@@ -2,7 +2,12 @@
    <h1>Hi there, I'm <a href="https://iahgo.github.io">Iahgo Barros</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<p>
 Atualmente sou desenvolvedor front-end e estudante de ciência da computação. Também sou estudante na Trybe onde estou aprendendo a me tornar um desenvolvedor full-stack, lá estou aprendendo muito sobre Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python e Testes.
+</p>
+<p>
+I am currently a front-end developer and student of computer science. I'm also a student at Trybe where I'm learning to become a full-stack developer, there I'm learning a lot about Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python and Tests.
+<br><br>
 - 🌐 Visit my [porfolio website](https://iahgo.github.io/) for complete background and contact.
 
 <div align="center">
