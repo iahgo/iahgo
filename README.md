@@ -3,10 +3,10 @@
 </div>
 
 <p>
-Atualmente sou desenvolvedor full-stack e estudante de ciência da computação. tenho experiencia com Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python e Testes.
+Atualmente sou desenvolvedor full-stack com conhecimento em aplicções MERN (MongoDB, Express, React, Node.js) e estudante de ciência da computação. Tenho experiencia com Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python e Testes.
 </p>
 <p>
-I am currently a front-end developer and student of computer science. I'm also a student at Trybe where I'm learning to become a full-stack developer, there I'm learning a lot about Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python and Tests.
+I am currently a full-stack developer focus on MERN (MongoDB, Express, React, Node.js), and Computer Scientist and I have a lot of experience in Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python and Tests.
 <br><br>
 - 🌐 Visit my [porfolio website](https://iahgo.github.io/) for complete background and contact.
 
