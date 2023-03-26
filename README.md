@@ -3,10 +3,10 @@
 </div>
 
 <p>
-Atualmente sou desenvolvedor full-stack com conhecimento em aplicções MERN (MongoDB, Express, React, Node.js) e estudante de ciência da computação. Tenho experiencia com Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python e Testes.
+Atualmente estou concluindo bacharelado em Ciência da computação e sou desenvolvedor full-stack com conhecimento em aplicações JavaScript, Node.js, React, API Rest, Mocha, Jest e RTL para testes, Python, SQL, Sequelize, Typescript, Express, MongoDB, MERN, Docker e AWS, além de conhecimentos em Clean Code, SOLID, POO e habilidades para desenvolver soluções de alta qualidade e escaláveis.
 </p>
 <p>
-I am currently a full-stack developer focus on MERN (MongoDB, Express, React, Node.js), and Computer Scientist and I have a lot of experience in Javascript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB, Git, Python and Tests.
+I am a Computer Scientist and a full-stack developer with expertise in JavaScript applications, Node.js, React, Rest APIs, Mocha, Jest, and RTL for testing, Python, SQL, Sequelize, Typescript, Express, MongoDB, MERN, Docker, and AWS, as well as knowledge in Clean Code, SOLID, OOP, and skills to develop high-quality and scalable solutions.
 <br><br>
 - 🌐 Visit my [porfolio website](https://iahgo.github.io/) for complete background and contact.
 
