@@ -3,7 +3,7 @@
 </div>
 
 <p>
-Atualmente estou concluindo bacharelado em Ciência da computação e sou desenvolvedor full-stack com conhecimento em aplicações JavaScript, Node.js, React, API Rest, Mocha, Jest e RTL para testes, Python, SQL, Sequelize, Typescript, Express, MongoDB, MERN, Docker e AWS, além de conhecimentos em Clean Code, SOLID, POO e habilidades para desenvolver soluções de alta qualidade e escaláveis.
+Sou um desenvolvedor fullstack com conhecimento em aplicações JavaScript, Node.js, React, API Rest, Mocha, Jest e RTL para testes, Python, SQL, Sequelize, Typescript, Express, MongoDB, MERN, Docker e AWS, além de conhecimentos em Clean Code, SOLID, POO e habilidades para desenvolver soluções de alta qualidade e escaláveis.
 </p>
 <p>
 I am a Computer Scientist and a full-stack developer with expertise in JavaScript applications, Node.js, React, Rest APIs, Mocha, Jest, and RTL for testing, Python, SQL, Sequelize, Typescript, Express, MongoDB, MERN, Docker, and AWS, as well as knowledge in Clean Code, SOLID, OOP, and skills to develop high-quality and scalable solutions.
